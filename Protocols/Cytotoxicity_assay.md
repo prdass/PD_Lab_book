@@ -64,7 +64,38 @@ Adjust pH to 10.5 (?)
 
 #### Cell seeding
 
-Remove cells from the flask according to [Steps 1-9 of the cell splitting protocol}(../Protocols/Splitting_cells.md)
+Remove cells from the flask according to [Steps 1-9 of the cell splitting protocol](../Protocols/Splitting_cells.md) - resulting in 10mL of cells resuspended in fresh media
+
+###### Cell counting
+1. Clean haemocytomer and coverslips with ethanol and place coverslip on top
+2. Pipette 20uL of resuspended cells into onto the haemocytomer, under the coverslip
+3. Using a microscope, count the numbers of cells in 3 of the 9 larger squares (1 square highlighted in red below)
+ ![](../Figure_Cache/Haemocytometer_counting.png?raw=true)
+4. Take the average cell count of the three squares and multiply by 10,000 to get cells per mL
+5. Calculate the desired number of cells for all wells (including extra to account for pipetting error) and the total volume of media required for all wells (including extra)
+6. Divide the desired number of cells by the total cells per ml to get the volume of cells needed to get desired dilution
+7. Subtract that number from the total media volume required to get the volume of media needed for the dilution
+
+**Example:**
+
+>3 cell counts: **115,110, 180**
+>
+>Average cell count = **135**
+>**135 x 10,000 = 1,350,000 cells per mL** in the resuspended cells
+>
+>To get 7000 cells/well in a 96 well plate: round up to 110 and multiply
+>**7000 x 110 = 770,000 cells** in 110 wells
+>
+>Total media volume for 110 wells **150uL x 110 = 16.5mL**
+>
+>Volume of cells required in 16.5mL **770,000/1,350,000 = 0.5704mL**
+>
+>**16.5mL - 0.5704mL = 15.93mL** of fresh media
+>
+>Final dilution = **15.93mL fresh media + 0.57mL resuspended cells**
+
+8. Pipette 150uL of the diluted cells each well in a 96 well plate. Gently tap the place 10 times on each side to bring the cells towards the centre of each well.
+9. Place lid on plate and incubate plate for 24hrs to allow cells to adhere
 
 ### Day 2
 

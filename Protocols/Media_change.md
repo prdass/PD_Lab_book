@@ -48,9 +48,10 @@ Humidified with 5% CO2, 37°C
 ### Changing media
 1. Media needs to be changed when colour changes from pink-red to more yellow
 2. In hood remove all old media with serological pipette
-3. Add 20mL of pre-warmed media
+3. Add 10mL of pre-warmed media
 4. Spray flask with 70% ethanol and return to incubator
 
 ### Notes
-1. Be careful with lid to prevent filter getting wet
-2. Spray anything that goes into the hood with 70% ethanol
+1. Volumes given are for a 75cm^3 flask, double for 175cm^3 flask
+2. Be careful with lid to prevent filter getting wet
+3. Spray anything that goes into the hood with 70% ethanol
