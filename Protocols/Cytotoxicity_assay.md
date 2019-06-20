@@ -64,7 +64,7 @@ Adjust pH to 10.5 (?)
 
 #### Cell seeding
 
-
+Remove cells from the flask according to [Steps 1-9 of the cell splitting protocol}(../Protocols/Splitting_cells.md)
 
 ### Day 2
 
