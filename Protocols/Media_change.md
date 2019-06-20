@@ -6,21 +6,32 @@
 ------------------------------------------------------------------
 ## Overview
 
-H3122 cells need to have their media replaced approximately every two days to keep cells healthy.
+ELM4-ALK H3122 cells need to have their media replaced approximately every two days to keep cells healthy.
+Crizotinib resistant ELM4-ALK cells ...
 RPMI1640 media will turn from pink-red to yellow when nutrients are depleted (phenol red changes colour depending on pH).
 
 ------------------------------------------------------------------
 ## Materials
 
-### RPMI1640 media (Thermofisher)
+### RPMI1640 media (Thermofisher) for ELM4-ALK H3122 cells
 
 | Additive |  Final Concentration   |
 | :------  | :-------- |
 | FBS | 5% |
 | Penicillin/Streptomycin  | 1% |
 
+
+### RPMI1640 media (Thermofisher) for crizotinib resistant ELM4-ALK H3122 cells
+
+| Additive |  Final Concentration   |
+| :------  | :-------- |
+| FBS | 10% |
+| Crizotinib  | 1 uM |
 Warm to 37°C before use.
 
+### Incubator conditions
+
+Humidified with 5% CO2, 37°C
 
 ------------------------------------------------------------------
 ## Methods
