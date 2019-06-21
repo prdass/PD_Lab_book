@@ -116,7 +116,7 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 4. Pipette 15uL of each crizotinib dilution into the wells seeded yesterday. One column per concentration and technical replicates for each concentration are in B/C/D for each column. <br>
 
-![](Figure_cache/96wellplate.jpg?raw=true)
+![](Figure_cache/96wellplate.jpg?raw=true)<br>``
 5. Gently tap the plate 10 times on each side and incubate at 37°C for 72 hours.
 
 ### Day 5
