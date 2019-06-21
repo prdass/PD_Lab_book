@@ -22,6 +22,12 @@ Store at 4°C.
 
 Warm to 37°C before use.
 
+### RPMI1640 media (Thermofisher) with no supplements
+
+Store at 4°C.
+
+Warm to 37°C before use.
+
 ### Sulphorhodamine B (SRB)
 
 | Additive | Final concentration |
@@ -34,20 +40,8 @@ Warm to 37°C before use.
 
 ### Tris/HCl
 
-### Crizotinib (dissolved in 0.1% DMSO)
+### 40mM Crizotinib (in DMSO)
 
-| Final conc uM | 11x Conc | 4mM | 0.4mM | 0.04mM | 0.004mM | DMSO |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| -----:|
-|0   |  0 |  - | -  | -  | -  |  2.75 |
-|0.005   | 0.055  |  - |  - | -  | 1.375  | 1.375  |
-|0.01   | 0.11  | -  |-   |  - | 2.75  |  0 |
-|0.05   | 0.55  |  - | -  |1.375   |-   |1.375   |
-|0.1   |  1.1 |  - | -  | 2.75  | -  |0   |
-|0.25   | 2.75  |  - |  0.69 | -  | -  |  2.06 |
-|0.5   |  5.5 | -  |   1.375| -  | -  | 1.375  |
-|1   | 11  | -  |  2.75 | -  |  - | 0  |
-|5   |  55 | 1.375  | -  | -  |  - |   1.375|
-|10   | 110  | 2.75  | -  |  - | -  |  0 |
 
 ### 1% acetic acid
 
@@ -103,6 +97,27 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 #### Setting up drug treatments
 
+1. Using the 40mM crizotinib, make four 1 in 10 serial dilutions of crizotinib in DMSO to get concentrations of 4mM, 0.4mM. 0.04mM and 0.004mN.
+2. Using the crizotinib serial dilutions, dilute them further to make 10 crizotinib concentrations. Add the amount of each crizotinib dilution specified below into a new eppendorf and add DMSO if required to ensure all wells get the same amount of DMSO.
+3. Make up the 10 crizotinib dilutions to 100uL using serum free RPMI1640 media, pipetting up and down to mix solution
+
+| Final conc uM | 11x Conc uM | 4mM | 0.4mM | 0.04mM | 0.004mM | DMSO |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| -----:|
+|0   |  0 |  - | -  | -  | -  |  2.75 |
+|0.005   | 0.055  |  - |  - | -  | 1.375  | 1.375  |
+|0.01   | 0.11  | -  |-   |  - | 2.75  |  0 |
+|0.05   | 0.55  |  - | -  |1.375   |-   |1.375   |
+|0.1   |  1.1 |  - | -  | 2.75  | -  |0   |
+|0.25   | 2.75  |  - |  0.69 | -  | -  |  2.06 |
+|0.5   |  5.5 | -  |   1.375| -  | -  | 1.375  |
+|1   | 11  | -  |  2.75 | -  |  - | 0  |
+|5   |  55 | 1.375  | -  | -  |  - |   1.375|
+|10   | 110  | 2.75  | -  |  - | -  |  0 |
+
+4. Pipette 15uL of each crizotinib dilution into the wells seeded yesterday. One column per concentration and technical replicates for each concentration are in B/C/D for each column. <br>
+
+![](Figure_cache/96wellplate.jpg?raw=true)
+5. Gently tap the plate 10 times on each side and incubate at 37°C for 72 hours.
 
 ### Day 5
 
