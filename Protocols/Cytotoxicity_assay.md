@@ -71,7 +71,7 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 2. Pipette 20uL of resuspended cells into onto the haemocytomer, under the coverslip
 3. Using a microscope, count the numbers of cells in 3 of the 9 larger squares (1 square highlighted in red below)
 
-![Haemocytometer](../Protocols/Figure_cache/Haemocytometer_counting.png?raw=true)
+![Haemocytometer](/Protocols/Figure_cache/Haemocytometer_counting.png?raw=true)
 
 4. Take the average cell count of the three squares and multiply by 10,000 to get cells per mL
 5. Calculate the desired number of cells for all wells (including extra to account for pipetting error) and the total volume of media required for all wells (including extra)
