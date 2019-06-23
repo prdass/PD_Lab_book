@@ -66,6 +66,7 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 3. Using a microscope, count the numbers of cells in 3 of the 9 larger squares (1 square highlighted in red below)
 
 ![](Figure_cache/Haemocytometer.png?raw=true)
+<img src="Haemocytometer.png">
 
 4. Take the average cell count of the three squares and multiply by 10,000 to get cells per mL
 5. Calculate the desired number of cells for all wells (including extra to account for pipetting error) and the total volume of media required for all wells (including extra)
