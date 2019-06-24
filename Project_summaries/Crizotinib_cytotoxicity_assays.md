@@ -1,9 +1,7 @@
 
 # Crizotinib cytotoxicity assays
-
-## Cytotoxicity assay 1
-
-##### Aim: to learn the method and reproduce EC50 for crizotinib x3
+## Aim: Learn SRB assay method and produce 3 or more consistent concentration/cell viability curves
+### Cytotoxicity assay 1
 
 * 20/6/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-6-20.md)
 * 21/6/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-6-21.md)
