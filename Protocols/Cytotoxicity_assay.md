@@ -126,16 +126,20 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 -  (Wellcome)
 1. Use aspirator to remove media from each well
+2. Add 150uL of 10% TCA to each well and incubate in fridge (or on ice) to fix cells for at least 30 minutes
 -  (Adams)
-2. Add 0.1mL of 10% TCA and incubate on ice or in cold room to fix cells
-3. Wash with dH20 remove to remove TCA, using a container to submerge the plate
-4. Invert the plate onto a paper towel to dry at room temperature (or for 45 minutes in gel drier)
-5. Add 0.1mL of 10mM Tris/HCl and incubate (what temperature?) for solubilise dye
+3. Remove the TCA from the plate and rinse 2x with dH20 to remove all remaining TCA (should still be able to see the cells at the bottom of the well at this point)
+4. Dry the plate by either: invert the plate onto a paper towel at room temperature, or standing plate upright in gel drier for 20 minutes
+5. Add 100uL of 0.4% SRB in 1% acetic acid to each well and incubate for 10 minutes
+6. Wash the plate with 1% acetic acid by filling each well and then removing it. Do this three times or until the acetic acid is clear.
+7. Dry the plate at room temperature or in the gel drier
+8. Add 100uL of 10nM Tris/HCl  and incubate for 10 minutes to solubilise the dye.
+
 
 
 #### Plate reader
 1. Read single reading at 510nm plate reader
-2. Open 'Microplate manager' -> File -> New Endpoint Protocol -> Enter wavelength (510nm or 490-630nm)
+2. Open 'Microplate manager' -> File -> New Endpoint Protocol -> Enter wavelength 510nm
 3. Place plate in reader and click Run
 
 
@@ -143,9 +147,9 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 1. Copy data table into Excel
 2. Plot absorbance against cell number to generate growth curve
 3. Open data in Graphpad Prism
-4. Use growth curve to calculate cell number from absorbance and cell number  as percentage of controls
+4. Use growth curve to calculate cell number from absorbance and cell number as percentage of DMSO control
 
 --------------------------------------------------------
 ### Notes
-1. When using aspirator remove from wall before turning off the handle.
-2. When washing with acetic acid (300mL) make sure the whole well is covered to remove excess dye - plate reader will pick it up
+1. When using aspirator remove from wall before turning off the handle (opposite of sign)
+2. When washing with acetic acid in Step 6 make sure the whole well is covered to remove excess dye - plate reader will pick it up
