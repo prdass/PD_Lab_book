@@ -6,7 +6,7 @@
 ------------------------------------------------------------------
 ## Overview
 
-In order to measure the cytotoxic activity of a compound (or several compunds) the H3122 cells are seeded in 96-well plates at a known density and allowed to adhere. They will then be treated with different concentrations of the compound of interest. After 72 hours of incubation with the compound, cells are fixed and stained with SRB to dye to protein content of each well. The dye is solubilised and the absorbance of each well is read to measure the effects of the treatment.
+In order to measure the cytotoxic activity of a compound (or several compunds) the H3122 cells are seeded in 96-well plates at a known density and allowed to adhere. They are then  treated with a gradient of concentrations of the compound of interest. After drug treatment period, the cells are fixed and stained with SRB to dye to protein content. The dye is solubilised and the absorbance of each well is read to measure the effects of the treatment.
 
 ------------------------------------------------------------------
 ## Materials
@@ -129,11 +129,11 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 2. Add 150uL of 10% TCA to each well and incubate in fridge (or on ice) to fix cells for at least 30 minutes
 -  (Adams)
 3. Remove the TCA from the plate and rinse 2x with dH20 to remove all remaining TCA (should still be able to see the cells at the bottom of the well at this point)
-4. Dry the plate by either: invert the plate onto a paper towel at room temperature, or standing plate upright in gel drier for 20 minutes
-5. Add 100uL of 0.4% SRB in 1% acetic acid to each well and incubate for 10 minutes
-6. Wash the plate with 1% acetic acid by filling each well and then removing it. Do this three times or until the acetic acid is clear.
-7. Dry the plate at room temperature or in the gel drier
-8. Add 100uL of 10nM Tris/HCl  and incubate for 10 minutes to solubilise the dye.
+4. Dry the plate by either: inverting the plate onto a paper towel at room temperature, or standing plate upright in gel drier for 20 minutes
+5. Add 100uL of 0.4% SRB in 1% acetic acid to each treated well and incubate for 10 minutes at room temperature
+6. Use aspirator to remove SRB from each well
+7. Wash the plate by submerging the it in a container of acetic acid so every well is filled then emptying it. Do this three times and then once more with fresh acetic acid. Pour the acetic acid remaining in the container over the wells and empty it out
+8. Add 100uL of 10mM Tris/HCl  and incubate for 10 minutes to solubilise the dye
 
 
 
