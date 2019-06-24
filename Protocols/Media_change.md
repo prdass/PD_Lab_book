@@ -55,3 +55,4 @@ Humidified with 5% CO2, 37°C
 1. Volumes given are for a 75cm^3 flask, double for 175cm^3 flask
 2. Be careful with lid to prevent filter getting wet
 3. Spray anything that goes into the hood with 70% ethanol
+4. Daily media changes will increase cell growth and reduce time taken to reach confluence
