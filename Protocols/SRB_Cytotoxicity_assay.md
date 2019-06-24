@@ -167,3 +167,4 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 ### Notes
 1. When using aspirator remove from wall before turning off the handle (opposite of sign)
 2. When washing with acetic acid in Step 6 make sure the whole well is covered to remove excess dye - plate reader will pick it up
+3. After fixing the cells, the experiment can be paused anytime after a drying step. If doing this store plates at room temperature with the lid on
