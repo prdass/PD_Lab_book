@@ -1,25 +1,23 @@
 # PD_Lab_book
 
-1.     Learn cell culture, SRB cytotoxicity assay. Get 3 or more consistent concentration/cell viability curves with crizotinib. Learn plotting this on Prism. (Abigail to teach)
-2.     Repeat this but with the MEK inhibitor, selumetinib (get concentration series from Nensi)
-3.     Do combination crizotinib/selumetinib cytotoxicity experiment – we will plan it depending on the IC50 values you get for crizotinib and selumetinib, but largely you will follow Nensi in this.  Learn how to analyse this kind of data (me).
-4.     Now do a cytotoxicity study using our new drug, ABT-737.
-5.     Combination experiment, crizotinib and ABT-737.
-6.     Finally, the three drug combination – compare to mono and two drug combinations.
 
 ## Objective 1
-###### Learning cell culture
-###### SRB c
-
+###### Learning cell culture basics
+###### SRB cytotoxicity assays with crizotinib
+Aim: 3 or more consistent concentration/cell viability curves<br>
+[Results](../Project_summaries/Crizotinib_cytotoxicity_assays.md)
 ## Objective 2
-
-
+###### SRB cytotoxicity assay with selumetinib (MEK inhibitor)
+Concentrations via Nensi<br>
+Aim: 3 or more consistent concentration/cell viability curves
 ## Objective 3
-
-
+###### SRB cytotoxicity assay with crizotinib and selumetinib
+Concentrations will depend of crizotinib and selumetinib IC50 values<br>
+Aim: 3 or more consistent concentration/cell viability curves and learn combination drug data analysis 
 ## Objective 4
-
-
+###### SRB cytotoxicity assay with ABT-737
+Aim: 3 or more consistent concentration/cell viability curves
 ## Objective 5
-
+SRB cytotoxicity assay with ABT-737 and crizotinib
 ## Objective 6
+SRB cytotoxicity assay with ABT-737, crizotinib and selumetinib
