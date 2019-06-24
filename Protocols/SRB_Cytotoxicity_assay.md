@@ -137,16 +137,31 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 
 #### Plate reader
-1. Read single reading at 510nm plate reader
-2. Open 'Microplate manager' -> File -> New Endpoint Protocol -> Enter wavelength 510nm
-3. Place plate in reader and click Run
+
+1. Open 'Microplate manager' -> File -> New Endpoint Protocol -> Enter wavelength 510nm -> Mix plate at 'medium' setting
+2. 'Run' to take reading, discard the first reading and click 'run' again (taking the second reading to allow the wells to be mixed as well as possible)
+3. Copy output into .xlsx and save in personal user folder
+4. Use USB to transfer to own computer - attached computer doesn't have internet access
 
 
 #### Data analysis
-1. Copy data table into Excel
-2. Plot absorbance against cell number to generate growth curve
-3. Open data in Graphpad Prism
-4. Use growth curve to calculate cell number from absorbance and cell number as percentage of DMSO control
+##### Excel
+1. Open .xlsx with raw absorbance readings
+2. Highlight the well which had drug treated cells
+3. Remove any obvious outliers due to experimental error
+4. Find the mean reading for each column
+5. Transpose the mean readings vertically
+6. Calculate each mean as a percentage of the DMSO control
+
+#####  GraphPad Prism
+1. If making a new project:
+>New table & graph -> XY -> Options -> 3 replicates
+2. In X paste molar crizotinib concentrations
+3. In appropriate Y column paste mean absorbances as % of DMSO
+4. To log crizotinib concentrations
+>Analyse -> Transform -> Transform X values using -> X=log(X)
+5. Analyse and graph transformed data
+>Analyse -> XY analyses -> Non-linear regression -> Dose-response - Inhibition -> log(inhibitor) vs response -- Variable slope (four parameters)
 
 --------------------------------------------------------
 ### Notes
