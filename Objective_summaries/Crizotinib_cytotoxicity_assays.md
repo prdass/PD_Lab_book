@@ -9,7 +9,7 @@
 * 25/6/19 [Data analysis](../Daily_lab_book/LB_19-6-25.md)
 
 #### Results
-Crizotinib IC50 = 5.788e-008M
+Crizotinib IC50 = 5.788e-008M (between 0.05 and 0.1uM)
 ![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1.jpg)
 
 [Raw data](../Raw_SRB_data/Crizotinib_only)
