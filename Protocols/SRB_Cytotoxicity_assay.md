@@ -126,7 +126,7 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 ![](Figure_cache/96_well_plate.png?raw=true)<br>
 Pink = increasing concentration of treatments,
-blue = technical replicates for each concentration
+blue = technical replicates for each concentration <br>
 5. Gently tap the plate 10 times on each side and incubate at 37°C for 72 hours.
 
 ### Day 5
