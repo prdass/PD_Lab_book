@@ -36,20 +36,29 @@ Warm to 37°C before use.
 |Acetic acid   |1%   |
 
 
-### 10% tricholoroacetic acetic acid (TCA)
+### 10% Tricholoroacetic acetic acid (TCA)
 
-### Tris/HCl
 
-### 40mM Crizotinib (in DMSO)
+### 40mM Crizotinib stock (in DMSO)
 
 
 ### 1% acetic acid
 
 ### TRIS/HCl buffer
-Adjust pH to 10.5 (?)
+Adjust pH to 10.5 BioRad Microplate Spectrophotometer
 
-###### BioRad Microplate Spectrophotometer
+###### Other equipment
+- 96 well plates
+- Haemocytometer and coverslip
+- Serological pipette
+- 20uL and 200uL pipettes
+- Repeat pipette
+- Eppendorf tubes
+- Aspirator
+- Gel drier
 
+
+BioRad Microplate Spectrophotometer
 
 ------------------------------------------------------------------
 ## Methods
@@ -95,13 +104,12 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 ### Day 2
 
-#### Setting up drug treatments
+#### Setting up crizotinib treatments
 
-1. Using the 40mM crizotinib, make four 1 in 10 serial dilutions of crizotinib in DMSO to get concentrations of 4mM, 0.4mM. 0.04mM and 0.004mN.
-2. Using the crizotinib serial dilutions, dilute them further to make 10 crizotinib concentrations. Add the amount of each crizotinib dilution specified below into a new eppendorf and add DMSO if required to ensure all wells get the same amount of DMSO.
-3. Make up the 10 crizotinib dilutions to 100uL using serum free RPMI1640 media, pipetting up and down to mix solution
+1. Using the 40mM crizotinib stock, make four 1:10 serial dilutions of crizotinib in DMSO to get four aliquots with concentrations of 4mM, 0.4mM. 0.04mM and 0.004mM crizotinib.
+2. Use the serial dilutions to make the 10 crizotinib dilutions to be added to plate by following the table below. Make up the 10 crizotinib dilutions to 100uL using serum free RPMI1640 media, pipetting up and down to mix solution
 
-| Final conc uM | 11x Conc uM | 4mM | 0.4mM | 0.04mM | 0.004mM | DMSO |
+  | Final conc uM | 11x Conc uM | 4mM | 0.4mM | 0.04mM | 0.004mM | DMSO |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| -----:|
 |0   |  0 |  - | -  | -  | -  |  2.75 |
 |0.005   | 0.055  |  - |  - | -  | 1.375  | 1.375  |
@@ -116,7 +124,9 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 
 4. Pipette 15uL of each crizotinib dilution into the wells seeded yesterday. One column per concentration and technical replicates for each concentration are in B/C/D for each column. <br>
 
-![](Figure_cache/96wellplate.jpg?raw=true)<br>
+![](Figure_cache/96_well_plate.png?raw=true)<br>
+Pink = increasing concentration of treatments,
+blue = technical replicates for each concentration
 5. Gently tap the plate 10 times on each side and incubate at 37°C for 72 hours.
 
 ### Day 5
