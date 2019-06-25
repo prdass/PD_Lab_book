@@ -109,18 +109,20 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 1. Using the 40mM crizotinib stock, make four 1:10 serial dilutions of crizotinib in DMSO to get four aliquots with concentrations of 4mM, 0.4mM. 0.04mM and 0.004mM crizotinib.
 2. Use the serial dilutions to make the 10 crizotinib dilutions to be added to plate by following the table below. Make up the 10 crizotinib dilutions to 100uL using serum free RPMI1640 media, pipetting up and down to mix solution
 
-  | Final conc uM | 11x Conc uM | 4mM | 0.4mM | 0.04mM | 0.004mM | DMSO |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:| -----:|
-|0   |  0 |  - | -  | -  | -  |  2.75 |
-|0.005   | 0.055  |  - |  - | -  | 1.375  | 1.375  |
-|0.01   | 0.11  | -  |-   |  - | 2.75  |  0 |
-|0.05   | 0.55  |  - | -  |1.375   |-   |1.375   |
-|0.1   |  1.1 |  - | -  | 2.75  | -  |0   |
-|0.25   | 2.75  |  - |  0.69 | -  | -  |  2.06 |
-|0.5   |  5.5 | -  |   1.375| -  | -  | 1.375  |
-|1   | 11  | -  |  2.75 | -  |  - | 0  |
-|5   |  55 | 1.375  | -  | -  |  - |   1.375|
-|10   | 110  | 2.75  | -  |  - | -  |  0 |
+
+| 11x conc (μM) | Final conc (μM) | Volume of 4mM (uL) | Volume of 0.4mM (uL) | Volume of 0.04mM (uL) | Volume of 0.004mM (uL) | Volume of DMSO (μL) |
+|---------------|-----------------|--------------------|----------------------|-----------------------|------------------------|---------------------|
+| 0             | **0**               | -                  | -                    | -                     | -                      | 2.75                |
+| 0.055         | **0.005**         | -                  | -                    | -                     | 1.375                  | 1.375               |
+| 0.11          | **0.01**            | -                  | -                    | -                     | 2.75                   | 0                   |
+| 0.55          | **0.05**          | -                  | -                    | 1.375                 | -                      | 1.375               |
+| 1.1           | **0.1**             | -                  | -                    | 2.75                  | -                      | 0                   |
+| 2.75          | **0.25**            | -                  | 0.69                 | -                     | -                      | 2.06                |
+| 5.5           | **0.5**             | -                  | 1.375                | -                     | -                      | 1.375               |
+| 11            | **1**              | -                  | 2.75                 | -                     | -                      | 0                   |
+| 55            | **5**               | 1.375              | -                    | -                     | -                      | 1.375               |
+| 110           | **10**              | 2.75               | -                    | -                     | -                      | 0                   |
+
 
 4. Pipette 15uL of each crizotinib dilution into the wells seeded yesterday. One column per concentration and technical replicates for each concentration are in B/C/D for each column. <br>
 
@@ -135,6 +137,7 @@ blue = technical replicates for each concentration <br>
 #### Staining
 
 -  (Wellcome)
+-
 1. Use aspirator to remove media from each well
 2. Add 150uL of 10% TCA to each well and incubate in fridge (or on ice) to fix cells for at least 30 minutes
 -  (Adams)
