@@ -19,5 +19,7 @@ Aim: 3 or more consistent concentration/cell viability curves and learn combinat
 Aim: 3 or more consistent concentration/cell viability curves
 ## Objective 5
 SRB cytotoxicity assay with ABT-737 and crizotinib
+Aim: 3 or more consistent concentration/cell viability curves
 ## Objective 6
 SRB cytotoxicity assay with ABT-737, crizotinib and selumetinib
+Aim: 3 or more consistent concentration/cell viability curves
