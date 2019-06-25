@@ -11,3 +11,5 @@
 #### Results
 Crizotinib IC50 = 5.788e-008M
 ![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1.jpg)
+
+[Raw data](../Raw_SRB_data/Crizotinib_only)
