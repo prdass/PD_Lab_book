@@ -5,7 +5,7 @@
 ###### Learning cell culture basics
 ###### SRB cytotoxicity assays with crizotinib
 Aim: 3 or more consistent concentration/cell viability curves<br>
-[Results](Project_summaries/Crizotinib_cytotoxicity_assays.md)
+[Results](Pobjective_summaries/Crizotinib_cytotoxicity_assays.md)
 
 ## Objective 2
 ###### SRB cytotoxicity assay with selumetinib (MEK inhibitor)
