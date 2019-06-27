@@ -13,3 +13,8 @@ Crizotinib IC50 = 5.788e-008M (between 0.05 and 0.1uM)
 ![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1.jpg)
 
 [Raw data](../Raw_SRB_data/Crizotinib_only)
+
+### Cytotoxicity assay 2
+
+* 27/6/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-6-27.md)
+* 28/6/19 [Day 2 - Drug treatment]
