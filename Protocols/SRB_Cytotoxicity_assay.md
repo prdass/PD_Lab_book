@@ -147,7 +147,7 @@ blue = technical replicates for each concentration <br>
 4. Dry the plate by either: inverting the plate onto a paper towel at room temperature, or standing plate upright in gel drier for 20 minutes
 5. Add 100uL of 0.4% SRB in 1% acetic acid to each treated well and incubate for 10 minutes at room temperature
 6. Use aspirator to remove SRB from each well
-7. Wash the plate by submerging the it in a container of acetic acid so every well is filled then emptying it. Do this three times and then once more with fresh acetic acid. Pour the acetic acid remaining in the container over the wells and empty it out
+7. Wash the plate by submerging the it in a container of acetic acid so every well is filled then emptying it. Do this three times and then once more with fresh acetic acid. Pour the acetic acid remaining in the container over the wells and empty it out. Dry plate in gel drier or upside down at room temperature
 8. Add 100uL of 10mM Tris/HCl  and incubate for 10 minutes to solubilise the dye
 
 
