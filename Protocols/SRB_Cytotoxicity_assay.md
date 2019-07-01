@@ -28,26 +28,28 @@ Store at 4°C.
 
 Warm to 37°C before use.
 
-### Sulphorhodamine B (SRB)
+### 0.4% Sulphorhodamine B (SRB) in 1% acetic acid
 
-| Additive | Final concentration |
-|------------|-------|
-|SRB   |  0.4% |
-|Acetic acid   |1%   |
+- Dissolve 4g SRB in 10mL acetic acid
+- Make up to 1L with distilled water
 
 
 ### 10% Tricholoroacetic acetic acid (TCA)
-
+Dissolve 100g TCA in 1L distilled water
 
 ### 40mM Crizotinib stock (in DMSO)
 
 
 ### 1% acetic acid
+10uL of concentrated acetic acid in 1L distilled water
 
 ### TRIS/HCl buffer
-Adjust pH to 10.5 BioRad Microplate Spectrophotometer
+1.2114g Tris in 1L distilled water
+Adjust pH to 10.5 with HCl
 
-###### Other equipment
+
+#### Other equipment
+- BioRad Microplate Spectrophotometer
 - 96 well plates
 - Haemocytometer and coverslip
 - Serological pipette
