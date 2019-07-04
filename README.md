@@ -11,6 +11,7 @@ Aim: 3 or more consistent concentration/cell viability curves<br>
 ###### SRB cytotoxicity assay with selumetinib (MEK inhibitor)
 Concentrations via Nensi<br>
 Aim: 3 or more consistent concentration/cell viability curves
+[Results](Objective_summaries/Selumetinib_cytotoxicity_assays.md)
 
 ## Objective 3
 ###### SRB cytotoxicity assay with crizotinib and selumetinib
