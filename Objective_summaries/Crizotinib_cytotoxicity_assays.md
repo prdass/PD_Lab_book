@@ -29,6 +29,12 @@
 
 ### Cytotoxicity assay 3
 
-* 27/6/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-7-01.md)
-* 28/6/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-7-02.md)
-* 1/7/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_____.md)
+* 1/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-7-01.md)
+* 2/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-7-02.md)
+* 5/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-7-05.md)
+
+### Cytotoxicity assay 4 (same plate as selumetinib assay 1)
+
+* 4/7/19 [Day 1 - Seeding](../Daily_lab_book/.md)
+* 5/7/19 [Day 2 - Drug treatment] (../Daily_lab_book/.md)
+* 8/7/19 [Day 5 - SRB stain] (../Daily_lab_book/.md)
