@@ -35,6 +35,6 @@
 
 ### Cytotoxicity assay 4 (same plate as selumetinib assay 1)
 
-* 4/7/19 [Day 1 - Seeding](../Daily_lab_book/.md)
+* 4/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-7-04.md)
 * 5/7/19 [Day 2 - Drug treatment] (../Daily_lab_book/.md)
 * 8/7/19 [Day 5 - SRB stain] (../Daily_lab_book/.md)
