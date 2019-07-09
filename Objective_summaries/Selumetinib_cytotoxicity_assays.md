@@ -8,3 +8,10 @@
 * 5/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-05.md)
 * 8/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-08.md)
 * [Data analysis] (../Daily_lab_book/LB_.md)
+
+### Cytotoxicity assay 2
+
+* 8/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-08.md)
+* 9/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
+* 12/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
+* x/x/19 [Data analysis] (../Daily_lab_book/_)
