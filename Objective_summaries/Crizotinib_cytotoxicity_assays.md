@@ -35,7 +35,7 @@
 
 >Combining data from assay 1, 2 and 3<br>
 >Crizotinib IC50 =7.451e-008M
-![](../Daily_lab_book/Figure_cache/Crizotinib_assay_3.jpg)
+![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1-3.jpg)
 
 ### Cytotoxicity assay 4 (same plate as selumetinib assay 1)
 
