@@ -21,4 +21,7 @@ Of the four transcripts available only the top transcript (ENST00000389048.3) co
 ![](../Objective_summaries/Figure_cache/ALK_UBSC.jpg)
 The canonical trancript and protein kinase region are highlighted in yellow.
 
-Once the canonical transcript and the kinase domain had been identified, the transcript sequence was downloaded from
+Once the canonical transcript and the kinase domain had been identified, the transcript sequence was downloaded from NCBI (using ensembl.org to confirm the NCBI ID NM_004304.5) and opened in Snapgene. The kinase domain was manually annotated in blue and the 5' and 3' most kinase domain mutations listed by Rotow and Bivona (2017) were also annotated.
+![](../Objective_summaries/Figure_cache/ALK_snapgene_map.jpg)
+
+The 5' and 3' most kinase domain mutations listed by Rotow and Bivona (2017) were annotated
