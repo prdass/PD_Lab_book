@@ -29,3 +29,8 @@ Aim: 3 or more consistent concentration/cell viability curves
 ## Objective 6
 ###### SRB cytotoxicity assay with ABT-737, crizotinib and selumetinib<br>
 Aim: 3 or more consistent concentration/cell viability curves<br>
+
+## Objective 7
+###### H3122 and CR-H3122 kinase domain sequencing
+Aim: Amplify the ALK kinase domain from both H3122 and CR-H3122 and use Sanger sequencing to identify any crizotinib resistance mutations in CR-H3122. <br>
+[Primer design]
