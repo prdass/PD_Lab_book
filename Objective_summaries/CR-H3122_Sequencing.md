@@ -3,7 +3,7 @@
 
 ### Primer design
 
-**Identifying the best ALK transcript**
+
 Our experimental design involves converting mRNA to cDNA for all further analysis so it is important that we design our primers to match to the trancript that will be present in our cell lines.
 Multiple ALK transcripts are available through Genbank but we need to identify the best candidate. <BR>
 
