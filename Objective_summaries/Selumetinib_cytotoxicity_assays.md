@@ -22,3 +22,10 @@ IC50 = 1.083e-006M
 * 9/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
 * 12/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
 * x/x/19 [Data analysis] (../Daily_lab_book/_)
+
+### Cytotoxicity assay 3
+
+* 8/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-11.md)
+* 9/7/19 [Day 2 - Drug treatment] (../Daily_lab_book/.md)
+* 12/7/19[Day 5 - SRB stain] (../Daily_lab_book/.md)
+* x/x/19 [Data analysis] (../Daily_lab_book/.md)
