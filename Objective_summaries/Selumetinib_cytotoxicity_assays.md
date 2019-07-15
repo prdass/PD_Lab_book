@@ -21,7 +21,7 @@ IC50 = 1.083e-006M
 * 8/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-08.md)
 * 9/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
 * 12/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
-* 15/7/19 [Data analysis](../Daily_lab_book/LB_19=07-15.md)
+* 15/7/19 [Data analysis](../Daily_lab_book/LB_19-07-15.md)
 
 >Selumetinib results (replicate 1 and 2)<br>
 IC50 = 1.036e-006M
@@ -31,7 +31,7 @@ IC50 = 1.036e-006M
 
 * 11/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-11.md)
 * 12/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
-* 15/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19=07-15.md)
+* 15/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-15.md)
 * x/x/19 [Data analysis] (../Daily_lab_book/.md)
 
 ### Cytotoxicity assay 4
