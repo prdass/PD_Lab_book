@@ -10,9 +10,6 @@
 * 24/6/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-06-24.md)
 * 25/6/19 [Data analysis](../Daily_lab_book/LB_19-06-25.md)
 
-#### Results
->Crizotinib IC50 = 5.788e-008M
-![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1.jpg)
 
 
 ### Cytotoxicity assay 2
@@ -22,32 +19,22 @@
 * 1/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-01.md)
 * 2/7/19 [Continuing day 5 protocol and data analysis](../Daily_lab_book/LB_19-07-02.md)
 
-#### Results
->Combining data from assay 1 and 2<br>
->Crizotinib IC50 = 6.266e-008M
-![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1-2.jpg)
-
 ### Cytotoxicity assay 3
 
 * 1/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-01.md)
 * 2/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-02.md)
 * 5/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-05.md)
 
->Combining data from assay 1, 2 and 3<br>
->Crizotinib IC50 =7.451e-008M
-![](../Daily_lab_book/Figure_cache/Crizotinib_assay_1-3.jpg)
 
-### Cytotoxicity assay 4 (same plate as selumetinib assay 1)
+### Cytotoxicity assay 4
+(same plate as selumetinib assay 1)
 
 * 4/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-04.md)
 * 5/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-05.md)
 * 8/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-08.md)
 * 10/7/19 [Data analysis](../Daily_lab_book/LB_19-07-10.md)
 
->Crizotinib results (all 4 replicates)<br>
-IC50 = 8.396e-008M
-![](../Daily_lab_book/Figure_cache/Crizotinib_all_replicates.png)
 
-> Crizotinib results (replicates 2, 3 and 4 only)<br>
-IC50 = 1.018e-007M
-![](../Daily_lab_book/Figure_cache/Crizotinib_replicates_2-4.jpg)
+> Crizotinib results (replicates 2, 3 and 4 corrected data)<br>
+IC50 = 7.254e-008M
+![](../Daily_lab_book/Figure_cache/Criz_corrected_2-4.jpg)

@@ -2,7 +2,7 @@
 ## Aim: Produce 3 or more consistent concentration/cell viability curves with selumetinib
 
 >**[Raw data](../Raw_SRB_data/Selumetinib_only)**
-C:\Users\Priyal Dass\Documents\GitHub\PD_Lab_book\Raw_SRB_data\Selumetinib_only
+
 
 ### Cytotoxicity assay 1 (same plate as crizotinib assay 4)
 >Raw data for this replicate is [here](../Raw_SRB_data/Crizotinib_only)
@@ -12,31 +12,31 @@ C:\Users\Priyal Dass\Documents\GitHub\PD_Lab_book\Raw_SRB_data\Selumetinib_only
 * 8/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-08.md)
 * 10/7/19 [Data analysis](../Daily_lab_book/LB_19-07-10.md)
 
->Selumetinib results (replicate 1)<br>
-IC50 = 1.083e-006M
-![](../Daily_lab_book/Figure_cache/Selumetinib_replicate_1.jpg)
+
 
 ### Cytotoxicity assay 2
 
 * 8/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-08.md)
 * 9/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
-* 12/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
+* 12/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
 * 15/7/19 [Data analysis](../Daily_lab_book/LB_19-07-15.md)
 
->Selumetinib results (replicate 1 and 2)<br>
-IC50 = 1.036e-006M
-![](../Daily_lab_book/Figure_cache/Selumetinib_replicate_1-2.jpg)
 
 ### Cytotoxicity assay 3
 
 * 11/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-11.md)
 * 12/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-09.md)
-* 15/7/19[Day 5 - SRB stain](../Daily_lab_book/LB_19-07-15.md)
+* 15/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-15.md)
 * 16/7/19 [Data analysis](../Daily_lab_book/LB_19-07-16.md)
+
+>Selumetinib results (replicate 1, 2 and 3 corrected data)<br>
+Data was constrained (top = 100%, bottom = 0%)
+IC50 = 1.850e-006M
+![](../Daily_lab_book/Figure_cache/Sel_corrected_2-4.jpg)
 
 ### Cytotoxicity assay 4
 
 * 11/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-15.md)
 * 16/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-16.md)
-* /7/19[Day 5 - SRB stain] (../Daily_lab_book/LB_1907-15.md)
+* /7/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_1907-15.md)
 * /7/19 [Data analysis] (../Daily_lab_book/.md)
