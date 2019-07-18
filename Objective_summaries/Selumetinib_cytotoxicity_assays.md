@@ -36,7 +36,13 @@ IC50 = 1.850e-006M
 
 ### Cytotoxicity assay 4
 
-* 11/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-15.md)
+* 15/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-15.md)
 * 16/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-16.md)
-* /7/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_1907-15.md)
+* 19/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-19.md)
+* /7/19 [Data analysis] (../Daily_lab_book/.md)
+
+### Cytotoxicity assay 5 (same plate as crizotinib assay 5)
+* 18/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-18.md)
+* 19/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-19.md)
+* 22/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-22.md)
 * /7/19 [Data analysis] (../Daily_lab_book/.md)
