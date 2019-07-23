@@ -38,3 +38,9 @@
 > Crizotinib results (replicates 2, 3 and 4 corrected data)<br>
 IC50 = 7.254e-008M
 ![](../Daily_lab_book/Figure_cache/Criz_corrected_2-4.jpg)
+
+### Cytotoxicity assay 5 (same plate as selumetinib assay 5)
+* 18/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-18.md)
+* 19/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-19.md)
+* 22/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-22.md)
+* 24/7/19 [Data analysis](../Daily_lab_book/LB_19-07-24.md)

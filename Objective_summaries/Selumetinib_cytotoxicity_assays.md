@@ -5,7 +5,7 @@
 
 
 ### Cytotoxicity assay 1 (same plate as crizotinib assay 4)
->Raw data for this replicate is [here](../Raw_SRB_data/Crizotinib_only)
+
 
 * 4/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-04.md)
 * 5/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-05.md)
@@ -39,10 +39,10 @@ IC50 = 1.850e-006M
 * 15/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-15.md)
 * 16/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-16.md)
 * 19/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-19.md)
-* /7/19 [Data analysis] (../Daily_lab_book/.md)
+* 24/7/19 [Data analysis](../Daily_lab_book/LB_19-07-24.md)
 
 ### Cytotoxicity assay 5 (same plate as crizotinib assay 5)
 * 18/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-18.md)
 * 19/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-19.md)
 * 22/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-22.md)
-* /7/19 [Data analysis] (../Daily_lab_book/.md)
+* 24/7/19 [Data analysis](../Daily_lab_book/LB_19-07-24.md)
