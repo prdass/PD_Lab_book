@@ -41,8 +41,13 @@ IC50 = 1.850e-006M
 * 19/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-19.md)
 * 24/7/19 [Data analysis](../Daily_lab_book/LB_19-07-24.md)
 
-### Cytotoxicity assay 5 (same plate as crizotinib assay 5)
+### ~~Cytotoxicity assay 5 (same plate as crizotinib assay 5)~~
+Failed replicate - not included in prism file
 * 18/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-18.md)
 * 19/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-19.md)
 * 22/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-22.md)
 * 24/7/19 [Data analysis](../Daily_lab_book/LB_19-07-24.md)
+
+Updated graph with replicates 1-4 (but will likely exclude 1 and 2 in final graph): <br>
+IC50 = 3.096e-006M
+![](../Daily_lab_book/Figure_cache/Selumetinib_replicate_1-4.jpg)
