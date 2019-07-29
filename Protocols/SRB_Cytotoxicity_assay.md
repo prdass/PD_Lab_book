@@ -69,7 +69,7 @@ BioRad Microplate Spectrophotometer
 
 #### Cell seeding
 
-Remove cells from the flask according to [Steps 1-9 of the cell splitting protocol](../Protocols/Splitting_cells.md) - resulting in 10mL of cells resuspended in fresh media
+Remove cells from the flask according to [Steps 1-9 of the cell splitting protocol](../Protocols/Splitting_cells.md) - resulting in 10mL of cells resuspended in fresh media (with serum)
 
 ###### Cell counting
 1. Clean haemocytomer and coverslips with ethanol and place coverslip on top
@@ -99,7 +99,7 @@ Remove cells from the flask according to [Steps 1-9 of the cell splitting protoc
 >
 >**16.5mL - 0.5704mL = 15.93mL** of fresh media
 >
->Final dilution = **15.93mL fresh media + 0.57mL resuspended cells**
+>Final dilution = **15.93mL fresh media (with serum)+ 0.57mL resuspended cells**
 
 8. Pipette 150uL of the diluted cells each well in a 96 well plate. Gently tap the place 10 times on each side to bring the cells towards the centre of each well.
 9. Place lid on plate and incubate plate for 24hrs to allow cells to adhere
