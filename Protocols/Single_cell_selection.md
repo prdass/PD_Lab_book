@@ -22,7 +22,7 @@ Split a 70-80% confluent medium flask according to [Steps 1-8 of the cell splitt
 
 In a 96 well plate pipette media (volumes in figure) and dilute the cells as shown below:
 
-![](Figure_cache/Single_cell_selection.PNG)
+![](Figure_cache/Single_cell_selection.png)
 
 First serially dilute the cells down column 1 top to bottom and then serially dilute column 1 from left to right.
 
