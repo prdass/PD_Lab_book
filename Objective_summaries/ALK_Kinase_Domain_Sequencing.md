@@ -26,7 +26,7 @@ Once the canonical transcript and the kinase domain had been identified, the tra
 
 **Primer-BLAST** was used to generate candidate primer sequences. From the Snapgene file, the sequence between the two annotated positions as well as 150bp upstream and downstream (indicated in pink above) was put into Primer-BLAST.
 From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs amplifying the same region in case one pair doesn't work (due to secondary RNA structure). The positions, sequences and estimated melting temperatures of the primers are below.
-
+M
 | Name    | Sequence (5' - 3')      | Tm (°C)   | Product size (bp)|
 |---------|-----------------------|-------|--------------|
 | ALK_1_F | CGCGGAAAAACATCACCCTC  | 59.83 | 548          |
@@ -37,3 +37,8 @@ From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs
 | ALK_3_R | TGGCACAGCCTCCCTTTCTAT | 61.19 |              |
 
 ![](../Objective_summaries/Figure_cache/ALK_snapgene_map_primers.jpg)
+
+### Clonal purification
+
+**H3122**\
+15/7/19 [Setting up 96 well plate for single cell selection](../Daily_lab_book/LB_19-08-16.md)
