@@ -53,3 +53,8 @@ Failed replicate - not included in prism file
 * 26/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-26.md)
 * 29/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-29.md)
 * 8/8/19 [Data analysis](../Daily_lab_book/LB_19-08-08.md)
+
+## Final crizotinib results (replicates 2 - 6)
+
+IC50 = 1.128e-007M
+![](../Daily_lab_book/Figure_cache/Crizotinib_2-6.png)
