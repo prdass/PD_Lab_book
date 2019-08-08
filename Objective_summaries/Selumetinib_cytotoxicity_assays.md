@@ -51,3 +51,11 @@ Failed replicate - not included in prism file
 Updated graph with replicates 1-4 (but will likely exclude 1 and 2 in final graph): <br>
 IC50 = 3.096e-006M
 ![](../Daily_lab_book/Figure_cache/Selumetinib_replicate_1-4.jpg)
+
+### Cytotoxicity assay 6
+(same plate as crizotinib assay 6)
+
+* 25/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-25.md)
+* 26/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-26.md)
+* 29/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-29.md)
+* 8/8/19 [Data analysis](../Daily_lab_book/LB_19-08-08.md)
