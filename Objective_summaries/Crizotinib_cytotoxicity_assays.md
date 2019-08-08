@@ -49,7 +49,7 @@ Failed replicate - not included in prism file
 ### Cytotoxicity assay 6
 (same plate as selumetinib assay 6)
 
-* 4/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-04.md)
-* 5/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-05.md)
-* 8/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-08.md)
-* 10/7/19 [Data analysis](../Daily_lab_book/LB_19-07-10.md)
+* 25/7/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-07-25.md)
+* 26/7/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-07-26.md)
+* 29/7/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-29.md)
+* 8/8/19 [Data analysis](../Daily_lab_book/LB_19-08-08.md)
