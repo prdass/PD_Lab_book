@@ -36,6 +36,7 @@ From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs
 | ALK_2_R | AGCACTCCAAAGGACCATGT  | 59.23 |        -      |
 | ALK_3_F | CCATCAGTGACCTGAAGGAGG | 60    | 558          |
 | ALK_3_R | TGGCACAGCCTCCCTTTCTAT | 61.19 |    -          |
+|   |   |   |   |
 
 ![](../Objective_summaries/Figure_cache/ALK_snapgene_map_primers.jpg)
 
@@ -43,6 +44,6 @@ From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs
 
 **H3122**\
 06/08/19 [Setting up 96 well plate for single cell selection + cell lysis](../Daily_lab_book/LB_19-08-06.md)\
-14/8/19 [RNA extraction and cDNA synthesis from non clonally purified cells](../Daily_lab_book/LB_19-08-16.md)
+14/8/19 [RNA extraction and cDNA synthesis from non clonally purified cells](../Daily_lab_book/LB_19-08-14.md)
 
 ### PCR and sequencing
