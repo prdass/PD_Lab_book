@@ -11,6 +11,7 @@ How to extract RNA from cell lines
 
 PBS\
 Qiagen Buffer RLT (lysis buffer)
+RNA extraction kit (brand?)
 
 
 
