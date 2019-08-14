@@ -38,7 +38,10 @@ M
 
 ![](../Objective_summaries/Figure_cache/ALK_snapgene_map_primers.jpg)
 
-### Clonal purification
+### Clonal purification and RNA/cDNA
 
 **H3122**\
-15/7/19 [Setting up 96 well plate for single cell selection](../Daily_lab_book/LB_19-08-16.md)
+06/08/19 [Setting up 96 well plate for single cell selection + cell lysis](../Daily_lab_book/LB_19-08-06.md)\
+14/8/19 [RNA extraction and cDNA synthesis from non clonally purified cells](../Daily_lab_book/LB_19-08-16.md)
+
+### PCR and sequencing
