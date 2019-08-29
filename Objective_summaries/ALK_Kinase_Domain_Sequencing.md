@@ -40,10 +40,18 @@ From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs
 
 ![](../Objective_summaries/Figure_cache/ALK_snapgene_map_primers.jpg)
 
-### Clonal purification and RNA/cDNA
+### RNA/cDNA for non-clonally purified cells
 
 **H3122**\
 06/08/19 [Setting up 96 well plate for single cell selection + cell lysis](../Daily_lab_book/LB_19-08-06.md)\
-14/8/19 [RNA extraction and cDNA synthesis from non clonally purified cells](../Daily_lab_book/LB_19-08-14.md)
+14/8/19 [RNA extraction and cDNA synthesis](../Daily_lab_book/LB_19-08-14.md)
+16/8/19 [PCR with H3122 cDNA](../Daily_lab_book/LB_19-08-16.md)
+19/8/19 [Gel purification and sequencing set up](../Daily_lab_book/LB_19-08-19.md)
+
+**CR H3122**\
+13/08/19 [Setting up 96 well plate for single cell selection](../Daily_lab_book/LB_19-08-13.md)\
+21/8/19 [RNA extraction and cDNA synthesis](../Daily_lab_book/LB_19-08-21.md)
+22/8/19 [PCR with H3122 cDNA](../Daily_lab_book/LB_19-08-22.md)
+23/8/19 [Gel purification and sequencing set up](../Daily_lab_book/LB_19-08-23.md)
 
 ### PCR and sequencing
