@@ -54,4 +54,9 @@ From the Primer-BLAST output 3 primer pairs were selected. Multiple primer pairs
 22/8/19 [PCR with H3122 cDNA](../Daily_lab_book/LB_19-08-22.md)
 23/8/19 [Gel purification and sequencing set up](../Daily_lab_book/LB_19-08-23.md)
 
-### PCR and sequencing
+### Sequencing results
+
+H3122 kinase domain matches exactly with the ALK 1 transcript sequence.
+![](../Daily_lab_book/Figure_cache/ALK_3_R_BLAST.JPG)
+CR-H3122 unfortunately also matches perfectly with the reference sequence - doesn't look like there are any mutations present. There is a 1bp deletion (would be c.4277delC) but the corresponding sequence trace is poor quality bc it's near the start of the sequence - probably not a real mutation.
+![](../Daily_lab_book/Figure_cache/ALK_3_R_BLAST_CR.JPG)
