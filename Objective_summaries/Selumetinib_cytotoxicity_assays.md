@@ -64,5 +64,20 @@ IC50 = 3.096e-006M
 
 * 8/8/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-08-08.md)
 * 9/8/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-08-09.md)
-* 12/8/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_19-07-29.md)
-* 8/8/19 [Data analysis] (../Daily_lab_book/LB_19-08-08.md)
+* 12/8/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-12.md)
+
+### Cytotoxicity assay 8
+
+* 12/8/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-08-12.md)
+* 13/8/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-08-13.md)
+* 16/8/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-07-16.md)
+
+### Cytotoxicity assay 9
+
+* 22/8/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-08-22.md)
+* 23/8/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-08-23.md)
+* 26/8/19 Day 5 - SRB stain (done by Abby)
+
+>Final graph\
+**IC50 = 4.091e-006M**
+![](../Daily_lab_book/Figure_cache/Selumetinib_final.jpg)
