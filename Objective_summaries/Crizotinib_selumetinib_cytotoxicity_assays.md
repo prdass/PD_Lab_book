@@ -25,5 +25,8 @@
 
 * 9/9/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-09-09.md)
 * 10/9/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-09-10.md)
-* 6/9/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_19-09-03.md)
-* 9/9/19 [Data analysis] (../Daily_lab_book/LB_19-09-09.md)
+* 13/9/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-09-13.md)
+* 16/9/19 [Data analysis](../Daily_lab_book/LB_19-09-16.md)
+
+Final graph:
+![](../Daily_lab_book/Figure_cache/Criz_sel_combination.jpg)
