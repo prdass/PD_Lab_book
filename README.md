@@ -17,10 +17,12 @@ Aim: 3 or more consistent concentration/cell viability curves<br>
 ###### SRB cytotoxicity assay with crizotinib and selumetinib
 Concentrations will depend of crizotinib and selumetinib IC50 values<br>
 Aim: 3 or more consistent concentration/cell viability curves and learn combination drug data analysis
+[Results](Objective_summaries/Crizotinib_selumetinib_cytotoxicity_assays.md)
 
 ## Objective 4
 ###### SRB cytotoxicity assay with ABT-737
 Aim: 3 or more consistent concentration/cell viability curves
+[Results](Objective_summaries/ABT-737_cytotoxicity_assays.md)
 
 ## Objective 5
 ###### SRB cytotoxicity assay with ABT-737 and crizotinib<br>
