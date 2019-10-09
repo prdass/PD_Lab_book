@@ -1,20 +1,25 @@
-# Lab Book 9/10/19
+# Lab Book _ /_ /_
 - **Author:** Priyal Dass
 - **Supervisor:** Associate Professor John Ashton
 ------------------------------------------------------------------
 ## Overview
 
-First set of crizotinib x ABT SRB results
 
 ------------------------------------------------------------------
 ## Tasks
 
-1. CxA SRB 1 data analysis
-------------------------------------------------------------------
-## Task 1: CxA SRB 1 data analysis
 
-The rest of the SRB protocol was continued and absorbance was measured for combination and control plates. New .xlsx, prism file, and objective summary were made for this data.
+------------------------------------------------------------------
+## Task 1
 
 ### Next
-Continue with replicates
+
 ------------------------------------------------------------------
+## Task 2
+
+### Next
+
+------------------------------------------------------------------
+## Task 3
+
+### Next
