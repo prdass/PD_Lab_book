@@ -5,34 +5,36 @@
 ###### Learning cell culture basics
 ###### SRB cytotoxicity assays with crizotinib
 Aim: 3 or more consistent concentration/cell viability curves<br>
-[Results](Objective_summaries/Crizotinib_cytotoxicity_assays.md)
+[Results](Objective_summaries/O1_crizotinib.md)
 
 ## Objective 2
 ###### SRB cytotoxicity assay with selumetinib (MEK inhibitor)
 Concentrations via Nensi<br>
 Aim: 3 or more consistent concentration/cell viability curves<br>
-[Results](Objective_summaries/Selumetinib_cytotoxicity_assays.md)
+[Results](Objective_summaries/O2_selumetinib.md)
 
 ## Objective 3
 ###### SRB cytotoxicity assay with crizotinib and selumetinib
 Concentrations will depend of crizotinib and selumetinib IC50 values<br>
 Aim: 3 or more consistent concentration/cell viability curves and learn combination drug data analysis\
-[Results](Objective_summaries/Crizotinib_selumetinib_cytotoxicity_assays.md)
+[Results](Objective_summaries/O3_crizotinib_selumetinib.md)
 
 ## Objective 4
 ###### SRB cytotoxicity assay with ABT-737
 Aim: 3 or more consistent concentration/cell viability curves\
-[Results](Objective_summaries/ABT-737_cytotoxicity_assays.md)
+[Results](Objective_summaries/O4_ABT-737.md)
 
 ## Objective 5
 ###### SRB cytotoxicity assay with ABT-737 and crizotinib<br>
 Aim: 3 or more consistent concentration/cell viability curves
+[Results](Objective_summaries/O5_crizotinib_ABT.md)
 
 ## Objective 6
 ###### SRB cytotoxicity assay with ABT-737, crizotinib and selumetinib<br>
 Aim: 3 or more consistent concentration/cell viability curves<br>
+[Results](Objective_summaries/O6_crizotinib_selumetinib_ABT.md)
 
 ## Objective 7
 ###### H3122 and CR-H3122 kinase domain sequencing
 Aim: Amplify the ALK kinase domain from both H3122 and CR-H3122 and use Sanger sequencing to identify any crizotinib resistance mutations in CR-H3122. <br>
-[Summary](Objective_summaries/ALK_Kinase_Domain_Sequencing.md)
+[Summary](Objective_summaries/O7_kinase_domain_sequencing.md)
