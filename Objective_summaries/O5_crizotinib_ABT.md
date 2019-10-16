@@ -1,7 +1,7 @@
 # Crizotinib x ABT-737 cytotoxicity assays
 ## Aim: Produce 3 or more consistent concentration/cell viability curves
 
->**[Raw data] (../Raw_SRB_data/Criz_ABT_combination)**
+>**[Raw data] (../Raw_SRB_data/O5_crizotinib_ABT)**
 
 ### Cytotoxicity assay 1
 

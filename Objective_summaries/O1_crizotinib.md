@@ -2,7 +2,7 @@
 # Crizotinib cytotoxicity assays
 ## Aim: Learn SRB assay method and produce 3 or more consistent concentration/cell viability curves
 
->**[Raw data](../Raw_SRB_data/Crizotinib_only)**
+>**[Raw data](../Raw_SRB_data/O1_crizotinib)**
 ### Cytotoxicity assay 1
 
 * 20/6/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-06-20.md)

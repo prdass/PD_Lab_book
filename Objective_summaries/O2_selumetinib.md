@@ -1,7 +1,7 @@
 # Selumetinib cytotoxicity assays
 ## Aim: Produce 3 or more consistent concentration/cell viability curves with selumetinib
 
->**[Raw data](../Raw_SRB_data/Selumetinib_only)**
+>**[Raw data](../Raw_SRB_data/O2_selumetinib)**
 
 
 ### Cytotoxicity assay 1 (same plate as crizotinib assay 4)
