@@ -23,5 +23,26 @@
 
 * 21/10/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-10-21.md)
 * 22/10/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-10-22.md)
-* 21/10/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_19-10-21.md)
-* 22/10/19 [Data analysis] (../Daily_lab_book/LB_19-10-22.md)
+* 25/10/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-10-25.md)
+* 4/11/19 [Data analysis](../Daily_lab_book/LB_19-11-19.md)
+
+### Cytotoxicity assay 4
+
+* 24/10/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-10-24.md)
+* 25/10/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-10-25.md)
+* 28/10/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-10-28.md)
+* 4/11/19 [Data analysis](../Daily_lab_book/LB_19-11-19.md)
+
+### Cytotoxicity assay 5
+
+* 11/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-11.md)
+* 12/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-12.md)
+* 15/11/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-11-15.md)
+* 19/11/19 [Data analysis](../Daily_lab_book/LB_19-11-19.md)
+
+### Cytotoxicity assay 6
+
+* 14/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-14.md)
+* 15/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-15.md)
+* 18/11/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-11-18.md)
+* 19/11/19 [Data analysis](../Daily_lab_book/LB_19-11-19.md)
