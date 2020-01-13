@@ -38,3 +38,13 @@ Aim: 3 or more consistent concentration/cell viability curves<br>
 ###### H3122 and CR-H3122 kinase domain sequencing
 Aim: Amplify the ALK kinase domain from both H3122 and CR-H3122 and use Sanger sequencing to identify any crizotinib resistance mutations in CR-H3122. <br>
 [Summary](Objective_summaries/O7_kinase_domain_sequencing.md)
+
+## Objective 8
+###### H3122 and CR-H3122 whole genome sequencing
+Aim: Use WGS to compare the H3122 and CR-H3122 cell lines. <br>
+[Summary](Objective_summaries/O8_WGS.md)
+
+## Objective 9
+###### H3122 ABT-737 Western blots
+Aim: Amplify the ALK kinase domain from both H3122 and CR-H3122 and use Sanger sequencing to identify any crizotinib resistance mutations in CR-H3122. <br>
+[Summary](Objective_summaries/O9_ABT_westerns.md)
