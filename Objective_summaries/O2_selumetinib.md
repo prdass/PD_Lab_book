@@ -81,3 +81,43 @@ IC50 = 3.096e-006M
 >Final graph\
 **IC50 = 4.091e-006M**
 ![](../Daily_lab_book/Figure_cache/Selumetinib_final.jpg)
+
+### Cytotoxicity assay 10
+
+* 21/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-21.md)
+* 22/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-22.md)
+* 25/11/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-11-25.md)
+
+### Cytotoxicity assay 11
+
+* 25/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-25.md)
+* 26/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-26.md)
+* 29/11/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-11-29.md)
+
+### Cytotoxicity assay 12
+
+* 28/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-28.md)
+* 29/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-29.md)
+* 2/12/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-12-02.md)
+
+### Cytotoxicity assay 13
+
+* 2/12/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-12-02.md)
+* 3/12/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-12-03.md)
+* 6/12/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-12-06.md)
+
+##### IC50 so far
+
+| Replicates  | Constrain | IC50 (M)    | IC50 (uM) |
+|-------------|-----------|-------------|-----------|
+| 7, 8, 9, 11 | Y         | 0.000001996 | 1.996     |
+| 7, 8, 9, 11 | N         | 0.00000192  | 1.92      |
+| 8, 9, 11    | Y         | 0.000001806 | 1.806     |
+| 8, 9, 11    | N         | 0.000001515 | 1.515     |
+
+### Selumetinib Troubleshooting SRBs
+* 16/12/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-12-16.md)
+* 17/12/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-12-17.md)
+* 20/12/19 Day 5 - SRB stain
+
+![](../Daily_lab_book/Figure_cache/Selumetinib_troubleshooting_graph.JPG)
