@@ -121,3 +121,5 @@ IC50 = 3.096e-006M
 * 20/12/19 Day 5 - SRB stain
 
 ![](../Daily_lab_book/Figure_cache/Selumetinib_troubleshooting_graph.JPG)
+
+# IC50 of 1.996uM for all future single and combination SRBs in 2020.
