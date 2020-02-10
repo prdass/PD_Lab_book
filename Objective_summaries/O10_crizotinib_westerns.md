@@ -8,3 +8,4 @@
 * 4/02/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-04.md)
 * 5/02/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-05.md)\
 Samples were stored at -80C.
+* 7/02/20 [BCA assay and sample prep](../Daily_lab_book/LB_20-02-07.md) (135ng total protein per sample)
