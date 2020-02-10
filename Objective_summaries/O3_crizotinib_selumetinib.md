@@ -34,6 +34,6 @@ Final graph:
 # New selumetinib IC50
 ### Cytotoxicity assay 1
 * 3/2/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-03.md)
-* 10/9/19 [Day 2 - Drug treatment] (../Daily_lab_book/LB_19-09-10.md)
+* 4/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-04.md)
 * 13/9/19 [Day 5 - SRB stain] (../Daily_lab_book/LB_19-09-13.md)
 * 16/9/19 [Data analysis] (../Daily_lab_book/LB_19-09-16.md)
