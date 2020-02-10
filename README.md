@@ -46,5 +46,5 @@ Aim: Use WGS to compare the H3122 and CR-H3122 cell lines. <br>
 
 ## Objective 9
 ###### H3122 ABT-737 Western blots
-Aim: Amplify the ALK kinase domain from both H3122 and CR-H3122 and use Sanger sequencing to identify any crizotinib resistance mutations in CR-H3122. <br>
+Aim: Measure the change in cleaved caspase 3 in H3122 cells after exposure to ABT-737. <br> <br>
 [Summary](Objective_summaries/O9_ABT_westerns.md)
