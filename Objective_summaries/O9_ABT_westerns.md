@@ -13,7 +13,7 @@ Samples were stored at -80C.
 
 #### Replicate 1 (48 hours drug treatment):
 * 10/2/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-10.md)
-* 17/12/19 [Day 2 - Drug treatment] (../Daily_lab_book/LB_19-12-17.md)
+* 11/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-11.md)
 * 18/12/19 [Day 3 - Cell lysis] (../Daily_lab_book/LB_19-12-18.md)\
 
 
