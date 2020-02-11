@@ -17,7 +17,7 @@ Samples were stored at -80C.
 
 * 11/02/20 [2* antibody and imaging](../Daily_lab_book/LB_20-02-11.md)
 
-![](../Daily_lab_book/Figure_cache/H3_criz_24_SRC_1.jpg)
+![](../Daily_lab_book/Figure_cache/H3_criz_24_SRC_1.JPG)
 Overall succesful for a practise but need to improve:
 
 - Getting both b-actins to show up
