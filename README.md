@@ -48,3 +48,14 @@ Aim: Use WGS to compare the H3122 and CR-H3122 cell lines. <br>
 ###### H3122 ABT-737 Western blots
 Aim: Measure the change in cleaved caspase 3 in H3122 cells after exposure to ABT-737. <br> <br>
 [Summary](Objective_summaries/O9_ABT_westerns.md)
+
+## Objective 10
+###### H3122 + CR-H3122  crizotinib Western blots
+Aim: Measure the change in SRC and p-SRC in H3122 and CR-H3122 cells after exposure to crizotinib. <br> <br>
+[Summary](Objective_summaries/O10_crizotinib_westerns.md)
+
+
+## Objective 11
+###### SRB cytotoxicity assay with ABT-737 and selumetinib<br>
+Aim: 3 or more consistent concentration/cell viability curves\
+[Results](Objective_summaries/O11_ABT_selumetinib.md)
