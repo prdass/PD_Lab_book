@@ -13,3 +13,7 @@ gDNA was extracted from the clonally purified H3122 cells, however the yield/qua
 ![](../Objective_summaries/Figure_cache/H3122_gDNA_ex_1.jpg)
 
 #### Preparation of gDNA for WGS
+The protocol was modified to allow more time for the proteinase K lysis to work.
+
+gDNA yield from H3122 cells:
+![](../Daily_lab_book/Figure_cache/clonal_H3122_nanodrop.jpeg)
