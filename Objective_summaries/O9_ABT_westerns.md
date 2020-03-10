@@ -16,5 +16,11 @@ Samples were stored at -80C.
 * 11/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-11.md)
 * 13/2/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-13.md)\
 Samples were stored at -20C.
+* 28/1/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-01-28.md)
 
-* 28/1/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-01-28.md) (200ng total protein per sample)
+#### Replicate 2 (48 hours drug treatment):
+* 17/2/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-17.md)
+* 18/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-18.md)
+* 20/2/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-20.md)\
+Samples were stored at -20C.
+* 28/1/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-01-28.md)
