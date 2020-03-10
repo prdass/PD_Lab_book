@@ -30,7 +30,7 @@ Overall succesful for a practise but need to improve:
 * 11/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-11.md)
 * 12/02/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-12.md)\
 Samples were stored at -80C.
-* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md) (135ng total protein per sample)
+* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md)
 
 #### CR-H3122 Replicate 1 (24 hours drug treatment):
 
@@ -39,4 +39,22 @@ Samples were stored at -80C.
 * 13/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-13.md)
 * 14/02/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-14.md)\
 Samples were stored at -20C.
-* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md) (135ng total protein per sample)
+* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md)
+
+#### CR-H3122 Replicate 2 (24 hours drug treatment):
+
+##### Sample Preparation
+* 24/02/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-24.md)
+* 25/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-25.md)
+* 26/02/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-26.md)\
+Samples were stored at -20C.
+* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md)
+
+#### CR-H3122 Replicate 3 (24 hours drug treatment):
+
+##### Sample Preparation
+* 24/02/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-24.md)
+* 25/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-25.md)
+* 26/02/20 [Day 3 - Cell lysis](../Daily_lab_book/LB_20-02-26.md)\
+Samples were stored at -20C.
+* 7/02/20 [BCA assay and sample prep] (../Daily_lab_book/LB_20-02-07.md)
