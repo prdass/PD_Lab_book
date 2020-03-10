@@ -49,7 +49,7 @@
 
 ### Cytotoxicity assay 7
 
-* 14/11/19 [Day 1 - Seeding](../Daily_lab_book/LB_19-11-14.md)
-* 15/11/19 [Day 2 - Drug treatment](../Daily_lab_book/LB_19-11-15.md)
-* 18/11/19 [Day 5 - SRB stain](../Daily_lab_book/LB_19-11-18.md)
-* 19/11/19 [Data analysis](../Daily_lab_book/LB_19-11-19.md)
+* 1/3/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-03-01.md)
+* 2/3/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-03-02.md)
+* 5/3/20 [Day 5 - SRB stain](../Daily_lab_book/LB_20-03-05.md)
+* 1/3/20 [Data analysis] (../Daily_lab_book/LB_19-11-19.md)
