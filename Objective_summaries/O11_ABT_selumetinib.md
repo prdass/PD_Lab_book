@@ -11,5 +11,5 @@
 ### Cytotoxicity assay 2
 * 17/2/20 [Day 1 - Seeding](../Daily_lab_book/LB_20-02-17.md)
 * 18/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-18.md)
-* 20/2/20 [Day 5 - SRB stain](../Daily_lab_book/LB_20-02-20.md)
+* 21/2/20 [Day 5 - SRB stain](../Daily_lab_book/LB_20-02-21.md)
 * 17/2/20 [Data analysis] (../Daily_lab_book/LB_20-2-17.md)
