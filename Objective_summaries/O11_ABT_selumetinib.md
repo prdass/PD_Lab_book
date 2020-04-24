@@ -19,3 +19,9 @@
 * 25/2/20 [Day 2 - Drug treatment](../Daily_lab_book/LB_20-02-25.md)
 * 28/2/20 [Day 5 - SRB stain](../Daily_lab_book/LB_20-02-28.md)
 * 20/2/20 [Data analysis](../Daily_lab_book/LB_20-02-20.md)
+
+## Using new ABT stocks
+
+### Cytotoxicity assay 1 and 2 (combined results)
+
+![](../Objective_summaries/Figure_cache/ABT_sel_new_stock.png)
