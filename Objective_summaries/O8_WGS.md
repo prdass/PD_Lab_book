@@ -17,3 +17,10 @@ The protocol was modified to allow more time for the proteinase K lysis to work.
 
 gDNA yield from H3122 cells:
 ![](../Daily_lab_book/Figure_cache/clonal_H3122_nanodrop.jpeg)
+
+DNA protocol was modified to allow 1 hour for Proteinase K digestion step. DNA was extracted from both clonally purifed H3122 cells and P4 CR-H3122 cells and prepared for sequencing.
+
+Crizotinib resistance of the clonally purified cells was tested to see if it had changed significantly due to the FACS/expansion process.
+
+IC50 was 8.218e-008M.
+![](../Objective_summaries/Figure_cache/Clonal_H3122_crizotinib.jpg)
